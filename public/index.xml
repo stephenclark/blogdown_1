@@ -6,10 +6,20 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test post </title>
+      <link>http://example.org/post/test-post/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/test-post/</guid>
+      <description> Header 1 This is some text
+ Header 2 - Title my_data &amp;lt;- mtcars plot(my_data)  </description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>

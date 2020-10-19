@@ -1,0 +1,21 @@
+---
+title: 'Test post '
+author: stephenclark
+date: '2020-10-19'
+slug: test-post
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+## Header 1
+
+This is some text
+
+## Header 2 - Title
+
+```{r}
+my_data <- mtcars
+plot(my_data)
+```
